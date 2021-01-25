@@ -77,7 +77,8 @@ struct DrawingPad: View {
                 path.addLine(to: next)
 
 
-                //                path.addRect(.init(origin: next, size: .init(width: 5.005, height: 5.005)))
+
+//                path.addRect(.init(origin: next, size: .init(width: 5.005, height: 5.005)))
 //                                path.addRoundedRect(in: .init(origin: next, size: .init(width: 10, height: 10)), cornerSize: .init(width: 50, height: 50) )
 
             }
